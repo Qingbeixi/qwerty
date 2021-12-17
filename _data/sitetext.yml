@@ -39,8 +39,8 @@ en: &DEFAULT_EN
     closebutton: "Close Project"
 
   timeline:
-    title: "Time trends of NewYork Times and the bias"
-    text: "Writting the description"
+    title: "Preference of NewYork Times and the bias"
+    text: "We estimate the preference and bias from topic, speakers, sentiments-topic distribution, and speaker based popularity of topics. "
     section: timeline
     # left is the default
     #start_align: "left"
