@@ -71,7 +71,7 @@ en: &DEFAULT_EN
 
   about:
     title: "New York Times feature analysis"
-    text: "our story"
+    text: "Besides the general investigation, we also focus on the NewYork Times data in order to make comparision for the topic trends as well as the sentiment conditions."
     body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
     section: about
 
