@@ -25,7 +25,7 @@ en: &DEFAULT_EN
         desc: "Examine all of the data contained in quotes to have a better understanding of the quotes and determine what we can do to analyze and bias the trend."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "NewYork Times"
-        desc: "Focus our work mainly on the quetes in NewYork Times to analyze the trend of it and make some comparision with other vendors."
+        desc: "Focus our work mainly on the quotes in NewYork Times to analyze the trend of it and make some comparision with other vendors."
         icon: fas fa-laptop
       - title: "Expand the Timeline"
         desc: "Explore the NewYork times from 2015 to 2020, and make a conclusion of the bias based on the previous work."
