@@ -96,7 +96,7 @@ en: &DEFAULT_EN
   team:
     title: "QWERTY TEAM"
     text: "THERE ARE 4 STUDENTS IN OUR TEAM"
-    subtext: 
+    subtext:
     section: team
     people:
       - name: "Anmol"
@@ -118,7 +118,7 @@ en: &DEFAULT_EN
         image: assets/img/team/luca.PNG
         social:
       - name: "Qing Jun"
-        role: "Making Website"
+        role: "Website making"
         image: assets/img/team/qing.PNG
   contact:
     title: "Contact Us"
