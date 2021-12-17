@@ -24,7 +24,7 @@ en: &DEFAULT_EN
     - title: "Contact"
       section: contact
     - title: "Theme Source"
-      url: https://github.com/Qingbeixi/newtest
+      url: https://github.com/Qingbeixi/qwerty
 en-US:
   <<: *DEFAULT_EN
 en-CA:
