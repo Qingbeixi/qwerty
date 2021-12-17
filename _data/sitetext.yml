@@ -101,7 +101,7 @@ en: &DEFAULT_EN
     people:
       - name: "Anmol"
         role: "General Exploration on topics and sentiments"
-        image: assets/img/team/latenight.PNG
+        image: 
         social:
         #  - url: https://twitter.com
         #    icon: fab fa-twitter
