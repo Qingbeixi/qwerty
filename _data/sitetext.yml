@@ -96,7 +96,7 @@ en: &DEFAULT_EN
   team:
     title: "QWERTY TEAM"
     text: "THERE ARE 4 STUDENTS IN OUR TEAM"
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    subtext: 
     section: team
     people:
       - name: "Anmol"
