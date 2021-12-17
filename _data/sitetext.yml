@@ -11,35 +11,36 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
+    title: Investigation of news trends and bias
+    text: with an emphasis on New York Times
+    button: Row down
     buttonlink: "#services"
 
   services:
-    title: "Services"
-    text: "Lorem ipsum"
+    title: "Abstract"
+    text: "This dataset is used to investigate the bias in media coverage. Throughout history, media sources have played a significant role in influencing and shaping public opinion. Nonetheless, they have historically favored the interests of a few over the people. The media is frequently utilized as propaganda by authoritarian regimes and even to determine the outcome of democratic elections. With the growth of social media, it becomes even more critical for us to ensure that our news organizations cover the entire spectrum of news in an unbiased manner. Thus, in our study, we seek to elucidate this more. Our project's objective is to ascertain the differences in themes and attitudes between New York Times and other vendors. What distinguishes it from others, and are they overrepresented in a particular segment of society."
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Data exploration"
+        desc: "Examine all of the data contained in quotes to have a better understanding of the quotes and determine what we can do to analyze and bias the trend."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "NewYork Times"
+        desc: "Focus our work mainly on the quetes in NewYork Times to analyze the trend of it and make some comparision with other vendors."
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
+      - title: "Expand the Timeline"
+        desc: "Explore the NewYork times from 2015 to 2020, and make a conclusion of the bias based on the previous work."
         icon: fab fa-markdown
 
   portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "Data exploration of the quotes data"
+    text: "Before we conduct an assessment of the New York Times data, we'd like to examine all of the data contained in quotes. Thus, we may gain a better understanding of the quotes and determine what we can do to analyze and bias the trend. We focus our work mainly on the trend of topics, speakers, vendors and also explore the NLP method on topic detection and sentiment analysis.
+"
     section: portfolio
     closebutton: "Close Project"
 
   timeline:
-    title: "Timeline"
-    text: "Lorem ipsum timeline"
+    title: "Time trends of NewYork Times and the bias"
+    text: "Writting the description"
     section: timeline
     # left is the default
     #start_align: "left"
@@ -69,7 +70,7 @@ en: &DEFAULT_EN
     end: "Be Part <br> of Our <br> Story!"
 
   about:
-    title: "About Us"
+    title: "New York Times feature analysis"
     text: "our story"
     body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
     section: about
@@ -81,54 +82,44 @@ en: &DEFAULT_EN
     list:
       - title: "envato"
         url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
+        logo: assets/img/clients/ada.PNG
       - title: "designmodo"
         url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
+        logo: assets/img/clients/epfl.PNG
       - title: "themeforest"
         url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
+        logo: assets/img/clients/news.jpg
       - title: "Creative Market"
         url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+        logo: assets/img/clients/newss.png
 
   team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "QWERTY TEAM"
+    text: "THERE ARE 4 STUDENTS IN OUR TEAM"
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
+      - name: "Anmol"
+        role: "General Exploration on topics and sentiments"
+        image: assets/img/team/latenight.PNG
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
+        #  - url: https://twitter.com
+        #    icon: fab fa-twitter
+        #  - url: https://facebook.com
+        #    icon: fab fa-facebook-f
+        #  - url: https://linkedin.com
+        #    icon: fab fa-linkedin-in
+      - name: "Tushar"
+        role: "Focus on the analysis for NewYork Times"
+        image: assets/img/team/tushar.PNG
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
+      - name: "Luca"
+        role: "Extend the timeline for data analysis"
+        image: assets/img/team/luca.PNG
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-
+      - name: "Qing Jun"
+        role: "Making Website"
+        image: assets/img/team/qing.PNG
   contact:
     title: "Contact Us"
     text: "Lorem ipsum or call 123456789"
